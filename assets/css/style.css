@@ -637,7 +637,9 @@ table {
 /* ============================================================ */
 .top-header {
   height: 60px;
-  border-bottom: 1px solid #f0f0f2; }
+  border-bottom: 1px solid #f0f0f2;
+  display: none;
+}
 
 .top-header .top-header-container {
   max-width: 1000px;
